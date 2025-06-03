@@ -16,3 +16,7 @@
 📧 Email: ahmadashfaqahmad9540@gmail.com  
 🔗 LinkedIn: [Ashfaq Ahmad](https://www.linkedin.com/in/ashfaq-ahmad-366345250/)  
 🐙 GitHub: [Ahmad9540](https://github.com/Ahmad9540)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad9540&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad9540&theme=dark)
+
