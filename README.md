@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashfaq Ahmad
 
-<!--
-**Ahmad9540/Ahmad9540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Final Year | 💻 Full-Stack Developer & Data Analyst  
+🌟 Passionate about building web apps, solving real-world problems, and continuous learning.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: React, HTML5, CSS3, Tailwind, JavaScript
+- Backend: Node.js, Express.js, FastAPI, Django
+- Database: PostgreSQL, MongoDB, MySQL
+- Tools: Git, GitHub, VS Code, Netlify, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ashfaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad9540&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+📧 Email: ahmadashfaqahmad9540@gmail.com  
+🔗 LinkedIn: [Ashfaq Ahmad](https://www.linkedin.com/in/ashfaq-ahmad-366345250/)  
+🐙 GitHub: [Ahmad9540](https://github.com/Ahmad9540)
