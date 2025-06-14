@@ -11,6 +11,8 @@
 - **Backend:** Node.js, Express.js, FastAPI, Django  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **Tools & Platforms:** Git, GitHub, VS Code, Netlify, Vercel
+- **Data & Analytics:**  
+`Python` `Pandas` `NumPy` `SQL` `Tableau` `Excel` `Seaborn` `Matplotlib`
 
 ---
 
